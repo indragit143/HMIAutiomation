@@ -1,0 +1,5 @@
+SI_No,Test_Name,Path,configs,languages,validation_type,validation_text
+1,login_page,User --> User Type --> Technician --> Type[8412] --> Login,default,all,Text,Login
+2,control_panel,Menu --> Settings --> Control Panel,control.ini,"eng,jap",Text,Control Panel
+3,options,Menu --> Settings --> Options,default,"eng,jap,kor",Text,options
+4,Gov_Ares_FS_UI_0024,Menu --> Settings/Control --> Type[45] --> Cancel,default,all,Text,{Yes}{No}{You have changed values without pressing 'save' are you sure you want to leave the screen?  Uncommited changes will not be saved}
